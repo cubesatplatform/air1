@@ -25,7 +25,7 @@ So that’s what we decided to do!
 …. And since its Covid, we have plenty of time to figure this out.
 
 
-Mission
+<h1>Mission</h1>
 
 Create an extensible platform that everyone can use as the base foundation for their satellite.
 Complete with power, compute, communication and ADCD (that’s the stuff that determines where a satellite is pointing).   In addition, create a very cheap and efficient base station platform so we can talk to this satellite.
@@ -36,7 +36,7 @@ And the cost?  The goal is to get it under $5k, maybe even cheaper.
 
 
 
-About
+<h1>About</h1>
 
 I am Alexander Rusich, a junior at Palos Verdes High School. I am leading the team to try and help us get there.   We believe this project will not only be a great learning experience, but all create a fantastic satellite platform to help makes space accessible to everyone.
 
