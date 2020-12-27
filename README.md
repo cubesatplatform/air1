@@ -1,7 +1,7 @@
 # air1
 Version 1 of the cubesat
 
-<b>Introduction </b>
+<h1>Introduction </h1>
 
 Have you ever dreamed of launching your own satellite into space?  We did!
 
