@@ -1,6 +1,7 @@
 # air1
 Version 1 of the cubesat
-Introduction 
+
+<b>Introduction </b>
 
 Have you ever dreamed of launching your own satellite into space?  We did!
 
@@ -44,6 +45,8 @@ Want to help?   We can use whatever help we can get!
 All our work for the satellite and base station, including both hardware and software will be here on GitHub.   Please follow and contribute!  
 
 Thank you in advance and let’s usher in a new era of space!
+
+
 
 
 
